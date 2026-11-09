@@ -17,17 +17,17 @@ A collection of TypeScript practice problems and technical blog posts focused on
 
 ## 🏗️ OOP Concepts Learned
 
-- **Classes & Objects:** Creating classes and instances.
-- **Constructors:** Initializing object properties.
-- **Encapsulation:** Controlling property access using `private` and `protected`.
-- **Inheritance:** Reusing parent class properties and methods with `extends`.
-- **`super()`:** Calling the parent class constructor.
-- **Access Modifiers:** Understanding `public`, `private`, and `protected`.
+- **Classes & Objects**
+- **Constructors**
+- **Encapsulation**
+- **Inheritance**
+- **`super()`**
+- **Access Modifiers:** `public`, `private`, `protected`
 
 ## 📝 Technical Blog Posts
 
-1. **Type vs. Interface:** Core differences, declaration merging, inheritance, and when to use each.
-2. **Any, Unknown & Never:** Understanding TypeScript's type hierarchy, type safety, and why `unknown` is safer than `any`.
+1. [Type vs. Interface in TypeScript](https://github.com/mostafijur1126/L2B8A1/blob/main/type-vs-interface.md)
+2. [Understanding Any, Unknown, and Never in TypeScript](https://github.com/mostafijur1126/L2B8A1/blob/main/understanding-any-unknown-and-never-in-typescript.md)
 
 ## 🛠️ Technologies
 
